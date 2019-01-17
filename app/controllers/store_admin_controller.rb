@@ -1,4 +1,4 @@
-class StoreAdminController< ApplicationController
+class StoreAdminController < ApplicationController
  
   layout "admin"
   
