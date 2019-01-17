@@ -1,4 +1,6 @@
 class StaticController < ApplicationController
-  def about
+  
+  def home 
   end
+  
 end
